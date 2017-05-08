@@ -5,3 +5,4 @@ var Person = (function() {
     return Person;
 }());
 
+const foo = () => console.log('hello');
